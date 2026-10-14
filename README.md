@@ -20,32 +20,32 @@ Explain a digital product with a pixel city, platform-game actions and retro gam
 
 ## What to prepare
 
-- **Required:** A: text, up to 40 characters.
-- **Required:** B: text, up to 44 characters.
-- **Required:** A: text, up to 40 characters.
-- **Required:** B: text, up to 44 characters.
-- **Required:** A: text, up to 40 characters.
-- **Required:** B: text, up to 44 characters.
-- **Required:** A: text, up to 40 characters.
-- **Required:** B: text, up to 44 characters.
-- **Required:** A: text, up to 40 characters.
-- **Required:** B: text, up to 44 characters.
-- **Required:** A: text, up to 40 characters.
-- **Required:** B: text, up to 44 characters.
-- **Required:** A: text, up to 40 characters.
-- **Required:** B: text, up to 44 characters.
-- **Required:** A: text, up to 40 characters.
-- **Required:** B: text, up to 44 characters.
-- **Required:** A: text, up to 40 characters.
-- **Required:** B: text, up to 44 characters.
-- **Required:** A: text, up to 40 characters.
-- **Required:** B: text, up to 44 characters.
-- **Required:** A: text, up to 40 characters.
-- **Required:** B: text, up to 44 characters.
+- **Optional:** A: text, up to 40 characters.
+- **Optional:** B: text, up to 44 characters.
+- **Optional:** A: text, up to 40 characters.
+- **Optional:** B: text, up to 44 characters.
+- **Optional:** A: text, up to 40 characters.
+- **Optional:** B: text, up to 44 characters.
+- **Optional:** A: text, up to 40 characters.
+- **Optional:** B: text, up to 44 characters.
+- **Optional:** A: text, up to 40 characters.
+- **Optional:** B: text, up to 44 characters.
+- **Optional:** A: text, up to 40 characters.
+- **Optional:** B: text, up to 44 characters.
+- **Optional:** A: text, up to 40 characters.
+- **Optional:** B: text, up to 44 characters.
+- **Optional:** A: text, up to 40 characters.
+- **Optional:** B: text, up to 44 characters.
+- **Optional:** A: text, up to 40 characters.
+- **Optional:** B: text, up to 44 characters.
+- **Optional:** A: text, up to 40 characters.
+- **Optional:** B: text, up to 44 characters.
+- **Optional:** A: text, up to 40 characters.
+- **Optional:** B: text, up to 44 characters.
 - **Required:** A: text, up to 44 characters.
 - **Required:** B: text, up to 36 characters.
 
-Digital tools, reusable creative formats, feature explanations · Keyword, comparison, process, repeated output, network and conclusion scenes.
+Current product introductions, feature explanations and brand stories · Select complete source scenes for comparison, process, collections, connections or a conclusion.
 
 ## Let your assistant guide you
 

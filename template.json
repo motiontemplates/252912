@@ -5,7 +5,7 @@
   "owner": "motiongit",
   "slug": "motiongit-promo-pixel",
   "website": "https://motiongit.com/@motiongit/motiongit-promo-pixel",
-  "checkedAt": "2026-10-13",
+  "checkedAt": "2026-10-14",
   "availability": "download-available",
   "title": {
     "en": "Pixel Platformer · Product Introduction",
@@ -37,112 +37,112 @@
     {
       "en": "A: text, up to 40 characters.",
       "zh": "A：文字，不超过 40 个字符。",
-      "required": true
+      "required": false
     },
     {
       "en": "B: text, up to 44 characters.",
       "zh": "B：文字，不超过 44 个字符。",
-      "required": true
+      "required": false
     },
     {
       "en": "A: text, up to 40 characters.",
       "zh": "A：文字，不超过 40 个字符。",
-      "required": true
+      "required": false
     },
     {
       "en": "B: text, up to 44 characters.",
       "zh": "B：文字，不超过 44 个字符。",
-      "required": true
+      "required": false
     },
     {
       "en": "A: text, up to 40 characters.",
       "zh": "A：文字，不超过 40 个字符。",
-      "required": true
+      "required": false
     },
     {
       "en": "B: text, up to 44 characters.",
       "zh": "B：文字，不超过 44 个字符。",
-      "required": true
+      "required": false
     },
     {
       "en": "A: text, up to 40 characters.",
       "zh": "A：文字，不超过 40 个字符。",
-      "required": true
+      "required": false
     },
     {
       "en": "B: text, up to 44 characters.",
       "zh": "B：文字，不超过 44 个字符。",
-      "required": true
+      "required": false
     },
     {
       "en": "A: text, up to 40 characters.",
       "zh": "A：文字，不超过 40 个字符。",
-      "required": true
+      "required": false
     },
     {
       "en": "B: text, up to 44 characters.",
       "zh": "B：文字，不超过 44 个字符。",
-      "required": true
+      "required": false
     },
     {
       "en": "A: text, up to 40 characters.",
       "zh": "A：文字，不超过 40 个字符。",
-      "required": true
+      "required": false
     },
     {
       "en": "B: text, up to 44 characters.",
       "zh": "B：文字，不超过 44 个字符。",
-      "required": true
+      "required": false
     },
     {
       "en": "A: text, up to 40 characters.",
       "zh": "A：文字，不超过 40 个字符。",
-      "required": true
+      "required": false
     },
     {
       "en": "B: text, up to 44 characters.",
       "zh": "B：文字，不超过 44 个字符。",
-      "required": true
+      "required": false
     },
     {
       "en": "A: text, up to 40 characters.",
       "zh": "A：文字，不超过 40 个字符。",
-      "required": true
+      "required": false
     },
     {
       "en": "B: text, up to 44 characters.",
       "zh": "B：文字，不超过 44 个字符。",
-      "required": true
+      "required": false
     },
     {
       "en": "A: text, up to 40 characters.",
       "zh": "A：文字，不超过 40 个字符。",
-      "required": true
+      "required": false
     },
     {
       "en": "B: text, up to 44 characters.",
       "zh": "B：文字，不超过 44 个字符。",
-      "required": true
+      "required": false
     },
     {
       "en": "A: text, up to 40 characters.",
       "zh": "A：文字，不超过 40 个字符。",
-      "required": true
+      "required": false
     },
     {
       "en": "B: text, up to 44 characters.",
       "zh": "B：文字，不超过 44 个字符。",
-      "required": true
+      "required": false
     },
     {
       "en": "A: text, up to 40 characters.",
       "zh": "A：文字，不超过 40 个字符。",
-      "required": true
+      "required": false
     },
     {
       "en": "B: text, up to 44 characters.",
       "zh": "B：文字，不超过 44 个字符。",
-      "required": true
+      "required": false
     },
     {
       "en": "A: text, up to 44 characters.",
@@ -167,21 +167,20 @@
   ],
   "goodFor": {
     "en": [
-      "Digital tools, reusable creative formats, feature explanations",
-      "Keyword, comparison, process, repeated output, network and conclusion scenes"
+      "Current product introductions, feature explanations and brand stories",
+      "Select complete source scenes for comparison, process, collections, connections or a conclusion"
     ],
     "zh": [
-      "Digital tools, reusable creative formats, feature explanations",
-      "Keyword, comparison, process, repeated output, network and conclusion scenes"
+      "Current product introductions, feature explanations and brand stories",
+      "Select complete source scenes for comparison, process, collections, connections or a conclusion"
     ]
   },
   "boundaries": {
     "en": [
       "The documented output is 1920 × 1080, 60 fps; default demo duration is 66 seconds.",
       "Use the actual package parameter bounds; extra materials do not automatically create extra scenes.",
-      "Talking heads or real product footage without source editing",
-      "Automatic portrait output, voiceover synchronization or arbitrary scene reordering",
-      "A strict two-claim-only or other-brand video without editing the fixed demo scenes and labels"
+      "Portrait output or live presenter/video footage: this template accepts static images only",
+      "Shortening source actions, automatically matching cuts to voice words, or changing the original pixel style"
     ],
     "zh": [
       "已声明输出为 1920 × 1080，60 fps；默认样片 66 秒。",

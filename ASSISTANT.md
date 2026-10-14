@@ -4,7 +4,7 @@ This is a public introduction, not an executable template. Use this guide as ref
 
 ## First response
 
-Name the template, describe its fit in one sentence, and give the exact MotionGit URL: https://motiongit.com/@motiongit/motiongit-promo-pixel. Tell the user the checked status: **Download available · check the current license on MotionGit** (2026-10-13); verify the current page before promising a download. Ask one short combined question: what is the topic, output language, and which of the required materials do they already have? Offer to prepare a brief while they register or wait for download.
+Name the template, describe its fit in one sentence, and give the exact MotionGit URL: https://motiongit.com/@motiongit/motiongit-promo-pixel. Tell the user the checked status: **Download available · check the current license on MotionGit** (2026-10-14); verify the current page before promising a download. Ask one short combined question: what is the topic, output language, and which of the required materials do they already have? Offer to prepare a brief while they register or wait for download.
 
 ## Before the package is supplied
 
@@ -26,28 +26,28 @@ Name the template, describe its fit in one sentence, and give the exact MotionGi
 
 ### Materials
 
-- **Required:** A: text, up to 40 characters.
-- **Required:** B: text, up to 44 characters.
-- **Required:** A: text, up to 40 characters.
-- **Required:** B: text, up to 44 characters.
-- **Required:** A: text, up to 40 characters.
-- **Required:** B: text, up to 44 characters.
-- **Required:** A: text, up to 40 characters.
-- **Required:** B: text, up to 44 characters.
-- **Required:** A: text, up to 40 characters.
-- **Required:** B: text, up to 44 characters.
-- **Required:** A: text, up to 40 characters.
-- **Required:** B: text, up to 44 characters.
-- **Required:** A: text, up to 40 characters.
-- **Required:** B: text, up to 44 characters.
-- **Required:** A: text, up to 40 characters.
-- **Required:** B: text, up to 44 characters.
-- **Required:** A: text, up to 40 characters.
-- **Required:** B: text, up to 44 characters.
-- **Required:** A: text, up to 40 characters.
-- **Required:** B: text, up to 44 characters.
-- **Required:** A: text, up to 40 characters.
-- **Required:** B: text, up to 44 characters.
+- **Optional:** A: text, up to 40 characters.
+- **Optional:** B: text, up to 44 characters.
+- **Optional:** A: text, up to 40 characters.
+- **Optional:** B: text, up to 44 characters.
+- **Optional:** A: text, up to 40 characters.
+- **Optional:** B: text, up to 44 characters.
+- **Optional:** A: text, up to 40 characters.
+- **Optional:** B: text, up to 44 characters.
+- **Optional:** A: text, up to 40 characters.
+- **Optional:** B: text, up to 44 characters.
+- **Optional:** A: text, up to 40 characters.
+- **Optional:** B: text, up to 44 characters.
+- **Optional:** A: text, up to 40 characters.
+- **Optional:** B: text, up to 44 characters.
+- **Optional:** A: text, up to 40 characters.
+- **Optional:** B: text, up to 44 characters.
+- **Optional:** A: text, up to 40 characters.
+- **Optional:** B: text, up to 44 characters.
+- **Optional:** A: text, up to 40 characters.
+- **Optional:** B: text, up to 44 characters.
+- **Optional:** A: text, up to 40 characters.
+- **Optional:** B: text, up to 44 characters.
 - **Required:** A: text, up to 44 characters.
 - **Required:** B: text, up to 36 characters.
 
@@ -60,9 +60,8 @@ Name the template, describe its fit in one sentence, and give the exact MotionGi
 
 - The documented output is 1920 × 1080, 60 fps; default demo duration is 66 seconds.
 - Use the actual package parameter bounds; extra materials do not automatically create extra scenes.
-- Talking heads or real product footage without source editing
-- Automatic portrait output, voiceover synchronization or arbitrary scene reordering
-- A strict two-claim-only or other-brand video without editing the fixed demo scenes and labels
+- Portrait output or live presenter/video footage: this template accepts static images only
+- Shortening source actions, automatically matching cuts to voice words, or changing the original pixel style
 
 ### Services
 
