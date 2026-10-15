@@ -17,30 +17,11 @@ Download available; current terms are listed with the package.
 
 ## Inputs
 
-- **Optional:** A: text, up to 40 characters.
-- **Optional:** B: text, up to 44 characters.
-- **Optional:** A: text, up to 40 characters.
-- **Optional:** B: text, up to 44 characters.
-- **Optional:** A: text, up to 40 characters.
-- **Optional:** B: text, up to 44 characters.
-- **Optional:** A: text, up to 40 characters.
-- **Optional:** B: text, up to 44 characters.
-- **Optional:** A: text, up to 40 characters.
-- **Optional:** B: text, up to 44 characters.
-- **Optional:** A: text, up to 40 characters.
-- **Optional:** B: text, up to 44 characters.
-- **Optional:** A: text, up to 40 characters.
-- **Optional:** B: text, up to 44 characters.
-- **Optional:** A: text, up to 40 characters.
-- **Optional:** B: text, up to 44 characters.
-- **Optional:** A: text, up to 40 characters.
-- **Optional:** B: text, up to 44 characters.
-- **Optional:** A: text, up to 40 characters.
-- **Optional:** B: text, up to 44 characters.
-- **Optional:** A: text, up to 40 characters.
-- **Optional:** B: text, up to 44 characters.
-- **Required:** A: text, up to 44 characters.
-- **Required:** B: text, up to 36 characters.
+- **Required:** Your topic, script and facts to preserve.
+- **Optional:** Current product images, screenshots or display materials supported by the selected media slots.
+- **Optional:** The current brand name, logo and applicable feature icons.
+- **Optional:** A licensed music track or your preference for music in this production.
+- **Optional:** The current voice recording or your narration preference for this production.
 
 ## Begin production
 
