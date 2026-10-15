@@ -1,24 +1,33 @@
-<a href="https://motiongit.com/@motiongit/motiongit-promo-pixel"><img src="assets/hero.svg" alt="MotionGit · template 252912" width="100%"></a>
+<a href="https://motiongit.com/@motiongit/motiongit-promo-pixel"><img src="assets/hero.svg" alt="MotionGit · Pixel Platformer · Product Introduction" width="100%"></a>
 
 # Pixel Platformer · Product Introduction
 
 Explain a digital product with a pixel city, platform-game actions and retro game sound.
 
-**16:9 · 1920 × 1080 · 66s · 60 fps** &nbsp; / &nbsp; [@motiongit](https://motiongit.com/@motiongit)
+**16:9 · 1920 × 1080 · 60 fps · v2.5.0** · [@motiongit](https://motiongit.com/@motiongit) · [简体中文](README.zh-CN.md)
 
-[**Get this template on MotionGit ↗**](https://motiongit.com/@motiongit/motiongit-promo-pixel) · [简体中文](README.zh-CN.md)
+**[Template details, full .motion & demo](https://motiongit.com/@motiongit/motiongit-promo-pixel)**
+https://motiongit.com/@motiongit/motiongit-promo-pixel
 
-> Download available · check the current license on MotionGit. Check the live page for availability. Register/sign in and obtain your own .motion when download opens.
+Download available; current terms are listed with the package.
 
 ## Demo
 
 [![Animated preview](assets/preview.gif)](https://motiontemplates.github.io/252912/)
 
-[Watch the original demo](https://media.openaicut.com/previews/586/draft-en-45375e2037e0.mp4)
+[Full demo](https://motiongit.com/@motiongit/motiongit-promo-pixel) · [Play video](https://media.openaicut.com/previews/586/draft-en-45375e2037e0.mp4)
 
-![Frames from the public demo](assets/compositions.jpg)
+![Composition and motion details](assets/compositions.jpg)
 
-## What to prepare
+## How it works
+
+- Declared runtime profile: html-canvas/1.
+- Editable inputs are mapped through the template parameter schema and preset to its existing animation project.
+- The declared duration policy follows the current content; the package plan determines final timing.
+
+Demo duration: **66s**. The documented output is 1920 × 1080, 60 fps. The public demo is 66 seconds. Use the actual package parameter bounds; extra materials do not automatically create extra scenes. Portrait output or live presenter/video footage: this template accepts static images only Shortening source actions, automatically matching cuts to voice words, or changing the original pixel style
+
+## Inputs and materials
 
 - **Optional:** A: text, up to 40 characters.
 - **Optional:** B: text, up to 44 characters.
@@ -45,32 +54,27 @@ Explain a digital product with a pixel city, platform-game actions and retro gam
 - **Required:** A: text, up to 44 characters.
 - **Required:** B: text, up to 36 characters.
 
-Current product introductions, feature explanations and brand stories · Select complete source scenes for comparison, process, collections, connections or a conclusion.
+Useful for: Current product introductions, feature explanations and brand stories · Select complete source scenes for comparison, process, collections, connections or a conclusion
 
-## Let your assistant guide you
-
-Send the repository URL and this request to Codex, Doubao or another assistant:
-
-```text
-https://github.com/motiontemplates/252912
-Guide me to make a video with this template. Help me prepare the materials and get my .motion from MotionGit, then check the actual package's dependencies and show a plan and preview before rendering.
-```
-
-**For assistants:** read [the production handoff](ASSISTANT.md). Guide the user to the exact MotionGit page above to obtain the real package. While download is pending, help prepare the brief and materials.
-
-## Production setup
+## Runtime requirements
 
 - The package declares a Python and Node.js host. Check its dependency lock for supported versions and any additional rendering tools.
 - Use the package dependency lock and setup/check instructions. Check existing tools first, install only missing requirements and verify a preview.
 
-First-time setup can take a while. Have the assistant check existing tools, install only missing requirements, verify a short preview, and reuse the environment next time.
+## Use the template
 
-## About .motion
+1. Obtain the current .motion package from the [template page](https://motiongit.com/@motiongit/motiongit-promo-pixel).
+2. Extract or load it as documented, then read the included README and referenced production guide.
+3. Use your own content and materials, reuse the working environment, and follow the package entry point to inspect a real preview.
 
-MP4 is the finished video. **.motion is the reusable template**: it brings together the animation project, content slots, materials, dependencies and instructions so you can create again with your own content. [Format specification ↗](https://motiongit.com/spec)
+You can give an assistant the repository URL and this request:
 
-MotionGit also supports asset matching, image generation, voiceover and music search where appropriate, subject to the actual template slots, account access and pricing.
+> https://github.com/motiontemplates/252912
+>
+> Use this .motion template with my content. Obtain the package from https://motiongit.com/@motiongit/motiongit-promo-pixel, extract or load it as documented, read the included README and referenced guide, reuse my working environment, and follow the package workflow to show an actual preview.
 
----
+## .motion format
 
-This repository contains the introduction and public demo. Get the actual template for production on [MotionGit](https://motiongit.com/@motiongit/motiongit-promo-pixel).
+MotionGit .motion is a reusable video-template format that organizes the animation project, parameters, assets, dependencies and production guide. Its runtime uses new content to produce a finished video. [Format documentation](https://motiongit.com/spec)
+
+[Versions, license & full download](https://motiongit.com/@motiongit/motiongit-promo-pixel) · [Production reference](ASSISTANT.md)
