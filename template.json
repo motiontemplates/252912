@@ -5,7 +5,7 @@
   "owner": "motiongit",
   "slug": "motiongit-promo-pixel",
   "website": "https://motiongit.com/@motiongit/motiongit-promo-pixel",
-  "version": "2.5.5",
+  "version": "2.6.0",
   "technical": {
     "en": [
       "Declared runtime profile: html-canvas/1.",
@@ -18,7 +18,7 @@
       "已声明时长随本期内容适配，最终节奏由包内制作计划确定。"
     ]
   },
-  "checkedAt": "2026-10-15",
+  "checkedAt": "2026-10-17",
   "availability": "download-available",
   "title": {
     "en": "Pixel Platformer · Product Introduction",
