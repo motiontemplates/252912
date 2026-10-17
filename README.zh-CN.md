@@ -4,7 +4,7 @@
 
 像素城市、角色闯关和复古游戏音色组成产品介绍，适合数字工具与功能说明。
 
-**16:9 · 1920 × 1080 · 60 fps · v2.6.1** · [@motiongit](https://motiongit.com/@motiongit) · [English](README.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.6.2** · [@motiongit](https://motiongit.com/@motiongit) · [English](README.md)
 
 **[模板详情、完整 .motion 与 Demo](https://motiongit.com/@motiongit/motiongit-promo-pixel)**
 https://motiongit.com/@motiongit/motiongit-promo-pixel
