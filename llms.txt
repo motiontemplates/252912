@@ -1,7 +1,7 @@
 # Pixel Platformer · Product Introduction · MotionGit .motion
 
 Template and full package: https://motiongit.com/@motiongit/motiongit-promo-pixel
-Version: 2.6.2
+Version: 2.6.3
 Download available; current terms are listed with the package.
 
 Declared runtime profile: html-canvas/1.
