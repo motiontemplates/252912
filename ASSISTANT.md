@@ -3,7 +3,7 @@
 Explain a digital product with a pixel city, platform-game actions and retro game sound.
 
 Template & full download: https://motiongit.com/@motiongit/motiongit-promo-pixel
-Version: 2.6.5
+Version: 2.6.6
 Download available; current terms are listed with the package.
 
 ## Technical reference
